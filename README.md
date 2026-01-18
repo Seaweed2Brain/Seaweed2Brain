@@ -10,7 +10,7 @@
 - 🥇 **Stripe Young Scientist & Technologist of the Year 2026** ✨ 
 - 🦩 **Cubic Connected Intelligence Award Winner**
 - 🌸 **BT Young Scientist & Technology Exhibition 2025**  
-  - Overall Winner – Health & Wellbeing  
+  - Health & Wellbeing Gold Partner Award Winner
   - 1st Place Intermediate Category    
 
 ---
