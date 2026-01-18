@@ -1,16 +1,28 @@
-## Hi there 👋
+🌸✨ Hiiiii! ✨🌸  
 
-<!--
-**Seaweed2Brain/Seaweed2Brain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💗 **Python | AI/ML | HTML/CSS/JS**  
+🫧 **STEM | Coding | MedTech | AI**  
+🍄 Student | 15  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Achievements
+- 🥇 **Stripe Young Scientist & Technologist of the Year 2026** ✨ 
+- 🦩 **Cubic Connected Intelligence Award Winner**
+- 🌸 **BT Young Scientist & Technology Exhibition 2025**  
+  - Overall Winner – Health & Wellbeing  
+  - 1st Place Intermediate Category    
+
+---
+
+### 💻 Skills
+Python 🐍 | AI/ML 🤖 | Deep Learning 🧠  
+Computer Vision 🖼️ | HTML/CSS/JS 🌐 | UX/UI ✨  
+Data Analysis 📊 | Design & Digital Marketing 🎨  
+
+---
+
+### 🧁 Fun Stuff & Volunteering
+- 👩🏻‍💻 Volunteer Coding Instructor  
+- 💖 Charity Fashion Show – £7,000 raised  
+- 🏥 Shadowed Orthopaedic Surgeon  
