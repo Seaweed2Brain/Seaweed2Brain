@@ -4,7 +4,6 @@
 🫧 **STEM | Coding | MedTech | AI**  
 🍄 Student | 15  
 
----
 
 ### 🌟 Achievements
 - 🥇 **Stripe Young Scientist & Technologist of the Year 2026** ✨ 
@@ -13,14 +12,12 @@
   - Health & Wellbeing Gold Partner Award Winner
   - 1st Place Intermediate Category    
 
----
 
 ### 💻 Skills
 Python 🐍 | AI/ML 🤖 | Deep Learning 🧠  
 Computer Vision 🖼️ | HTML/CSS/JS 🌐 | UX/UI ✨  
 Data Analysis 📊 | Design & Digital Marketing 🎨  
 
----
 
 ### 🧁 Fun Stuff & Volunteering
 - 👩🏻‍💻 Volunteer Coding Instructor  
